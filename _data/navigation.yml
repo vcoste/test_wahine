@@ -1,9 +1,9 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+  - title: "Home"
+    url: /
+  - title: "Japan"
+    url: /japan/
+  - title: "Oregon"
+    url: /oregon/
+  - title: "Hawai'i"
+    url: /hawaii/
