@@ -19,8 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
+github_username: vcoste
 minimal_mistakes_skin: default
 search: true
 
@@ -59,7 +58,7 @@ plugins:
 
 author:
   name   : "Julie Shih"
-  avatar : "/assets/images/profile_picture/moraga steps_edited.webp"
+  avatar : "/assets/images/profile_picture/moraga steps.JPG"
   bio    : "I grew up on the islands of Hawai'i, but was lured away by school, and ended up falling in love with the Bay Area. When I was young, I visited Taiwan every year and was fortunate enough to travel to other places of the world with my family. Now I definitely think I have developed a wanderlust, and want to share my experiences with others in case it helps with your travels. Feel free to contact me with any questions, and find me on instagram @ju_uipo"
   links:
     - label: "@ju_uipo"
