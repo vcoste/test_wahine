@@ -23,6 +23,9 @@ github_username: vcoste
 minimal_mistakes_skin: default
 search: true
 
+repository: "vcoste/test_wahine"
+
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
