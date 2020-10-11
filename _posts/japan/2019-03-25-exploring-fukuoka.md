@@ -7,7 +7,7 @@ tags:
   - japan
 
 toc: true
-# toc_label: "My Table of Contents"
+toc_label: "Fukuoka"
 # toc_icon: "cog"
 toc_sticky: true
 
