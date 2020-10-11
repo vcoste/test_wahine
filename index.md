@@ -16,7 +16,7 @@ feature_row:
     url: "/oregon/"
     btn_label: "Oregon"
     btn_class: "btn--inverse btn--primary btn--x-large"
-  - image_path: /assets/images/Love my morning runs in Hawaii.jpg
+  - image_path: /assets/images/runs-in-Hawaii.jpg
     alt: "Hawai'i"
     url: "/hawaii/"
     btn_label: "Hawai'i"

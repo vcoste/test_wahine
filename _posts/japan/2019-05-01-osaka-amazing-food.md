@@ -5,6 +5,11 @@ categories:
   - blog
 tags:
   - japan
+
+toc: false
+
+sidebar:
+  nav: "japan_sidebar"
 ---
 
 Osaka is well known for their food, and their specialties include takoyaki, okonomiyaki, negiyaki, yakiniku, kushikatsu, and many more.  We only had 1.5 days to spend here, so we didn't get to explore too much, but I'll include some lists of restaurants well known for their okonomiyaki and takoyaki.

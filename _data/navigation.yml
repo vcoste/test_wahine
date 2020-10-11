@@ -7,3 +7,24 @@ main:
     url: /oregon/
   - title: "Hawai'i"
     url: /hawaii/
+
+
+japan_sidebar:
+  - title: Japan
+    children:
+      - title: "Osaka - Amazing Food!"
+        url: /blog/osaka-amazing-food/
+      - title: "Nara and their famous deer"
+        url: /blog/Nara-and-their-famous-deer/
+      - title: "Kyoto - temples, green tea, and tourists"
+        url: /blog/Kyoto-temples/
+      - title: "Miyajima - A cute island off of Hiroshima"
+        url: /blog/Miyajima/
+      - title: "Yufuin - A jewel in Oita"
+        url: /blog/yufuin-a-jewel-in-oita/
+      - title: "Beppu - One of the best cities for onsen (hot springs) in Japan"
+        url: /blog/beppu-one-of-the-best-cities-for-onsen-hot-springs-in-japan/
+      - title: "Exploring Fukuoka"
+        url: /blog/exploring-fukuoka/
+      - title: "Fukuoka Dining"
+        url: /blog/fukuoka-dining/
