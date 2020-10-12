@@ -4,7 +4,6 @@ title:  "Welcome to my travel blog!"
 layout: splash
 header:
   overlay_image: /assets/images/IMG_2168.jpg
-
 ---
 
 Since friends are often asking me for my travel itinerary, I figured I would put it all in one place to make it easier to access.  It's still a work in progress, but Oregon will be coming soon, and stay tuned for tips in France, Hawai'i, and more.  Welcome to WahineTravels!
@@ -24,7 +23,7 @@ Since friends are often asking me for my travel itinerary, I figured I would put
       </div>
       <div class="archive__item-body">
         <h2 class="archive__item-title">
-          <a href="/japan/" rel="permalink">Japan</a>
+          <a href="japan/" rel="permalink">Japan</a>
         </h2>
       </div>
     </div>
