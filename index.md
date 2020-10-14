@@ -31,7 +31,7 @@ Since friends are often asking me for my travel itinerary, I figured I would put
   <div class="feature__item">
     <div class="archive__item">
       <div class="archive__item-teaser">
-        <img src="/assets/images/oregon_2020/part 1/IMG-5300.JPG">
+        <img src="assets/images/oregon_2020/part 1/IMG-5300.JPG">
       </div>
       <div class="archive__item-body">
         <h2 class="archive__item-title">
@@ -43,7 +43,7 @@ Since friends are often asking me for my travel itinerary, I figured I would put
   <div class="feature__item">
     <div class="archive__item">
       <div class="archive__item-teaser">
-        <img src="/assets/images/runs-in-Hawaii.jpg">
+        <img src="assets/images/runs-in-Hawaii.jpg">
       </div>
       <div class="archive__item-body">
         <h2 class="archive__item-title">
