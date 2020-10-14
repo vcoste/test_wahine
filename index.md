@@ -3,7 +3,7 @@ title:  "Welcome to my travel blog!"
 # permalink: /
 layout: splash
 header:
-  overlay_image: /assets/images/IMG_2168.jpg
+  overlay_image: /images/IMG_2168.jpg
 ---
 
 Since friends are often asking me for my travel itinerary, I figured I would put it all in one place to make it easier to access.  It's still a work in progress, but Oregon will be coming soon, and stay tuned for tips in France, Hawai'i, and more.  Welcome to WahineTravels!
@@ -19,7 +19,7 @@ Since friends are often asking me for my travel itinerary, I figured I would put
   <div class="feature__item">
     <div class="archive__item">
       <div class="archive__item-teaser">
-        <img src="assets/images/japan_2019/fukuoka_to_miyajima/instagram_untitled.jpg">
+        <img src="images/japan_2019/fukuoka_to_miyajima/instagram_untitled.jpg">
       </div>
       <div class="archive__item-body">
         <h2 class="archive__item-title">
@@ -31,7 +31,7 @@ Since friends are often asking me for my travel itinerary, I figured I would put
   <div class="feature__item">
     <div class="archive__item">
       <div class="archive__item-teaser">
-        <img src="assets/images/oregon_2020/part 1/IMG-5300.JPG">
+        <img src="images/oregon_2020/part 1/IMG-5300.JPG">
       </div>
       <div class="archive__item-body">
         <h2 class="archive__item-title">
@@ -43,7 +43,7 @@ Since friends are often asking me for my travel itinerary, I figured I would put
   <div class="feature__item">
     <div class="archive__item">
       <div class="archive__item-teaser">
-        <img src="assets/images/runs-in-Hawaii.jpg">
+        <img src="images/runs-in-Hawaii.jpg">
       </div>
       <div class="archive__item-body">
         <h2 class="archive__item-title">
