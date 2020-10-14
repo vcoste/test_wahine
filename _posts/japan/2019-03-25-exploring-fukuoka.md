@@ -45,7 +45,7 @@ For those who love shopping, Fukuoka is a great city for this.  Different neighb
 
 * Daimyo - This very trendy area has plentiful boutiques, restaurants, cafes, and bars.  Vince found the men's clothing here too "American rapster" for his liking, but there is a bit more variety for women's clothing.  I found a couple of boutiques with the trendy, somewhat girly style that I like.  While shopping, we went to Manu Coffee, a popular hipster cafe chain in Fukuoka that uses locally roasted beans.  The cafe located in Daimyo, and the one located near Yanagibashirengo Market, are both super cute in their own ways.  
 
-{% include figure image_path="/images/japan_2019/fukuoka_to_miyajima/manu_coffee.jpg" alt="PB latte at Manu Coffee" caption="PB latte at Manu Coffee." %}
+{% include figure image_path="/images/japan_2019/fukuoka_to_miyajima/manu_coffee.jpg" alt="PB latte at Manu Coffee" caption="PB latte at Manu Coffee" %}
 
 * Tenjin - Right next to Daimyo, and home to abundant nightlife, Tenjin also has numerous shops, from big-name brands to local Japanese stores.  You can visit large departments stores, and Tenjin Chikagai, an underground area with small shops and restaurants, which is pretty characteristic near many of Japan's large subway stations.  In Tenjin, you can also find the unique ACROS Fukuoka building, with plants and trees covering its tiered roof.
 
