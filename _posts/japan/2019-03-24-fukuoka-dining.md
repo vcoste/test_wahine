@@ -20,11 +20,8 @@ Since Hakata has so much delicious food, I will actually focus this post on food
 ## Food
 - Yatai Food Stalls - These food stalls line Nakagawa Street, behind Canal City.  They consist of no frills food stands, where they shepherd you in to eat quickly, and back out, if there is a line.  Quality-wise, I think these food stalls fall short of the many amazing restaurants in Fukuoka, but they're fun if you want a little of that Asian night market feel.
 
-<video src="/images/japan_2019/fukuoka_to_miyajima/yatai-food-stalls-video.MOV" preload="auto" controls="" style="width: 100%; height: 100%;"></video>
-<!-- ![Market Video]() -->
-![Mentaiko](/images/japan_2019/fukuoka_to_miyajima/yatai-food-stalls-mentaiko.jpg)
-
-<center>Mentaiko (spicy cod roe), a specialty dish of Fukuoka, at the Yatai food stalls</center>
+<video src="../../images/japan_2019/fukuoka_to_miyajima/yatai-food-stalls-video.MOV" preload="auto" controls="" style="width: 100%; height: 100%;"></video>
+{% include figure image_path="/images/japan_2019/fukuoka_to_miyajima/yatai-food-stalls-mentaiko.jpg" alt="Mentaiko" caption="Mentaiko (spicy cod roe), a specialty dish of Fukuoka, at the Yatai food stalls" %}
 
 - Shin Shin - What the tonkotsu ramen at the Yatai food stalls lacked, Shin Shin made up for in leaps and bounds.  The broth was rich in flavor, but not too thick or heavy.  The thin noodles, characteristic of Hakata ramen, were a perfect al dente, and the relative simplicity of the dish (no garlic oil, corn, or other added toppings) actually created the perfect combination of flavors that made me really savor each mouthful.  
          Hakata has plentiful ramen shops to choose from, so I'll list some of the other ramen 
