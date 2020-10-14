@@ -33,25 +33,22 @@ Since Hakata has so much delicious food, I will actually focus this post on food
 4. Ichiran - this very popular chain actually has restaurants all over Japan, as well as in New York City, which is why we didn't feel the need to have it in Fukuoka, even though the original store is located there.  If you haven't been, the store is set up as individual stalls with a privacy barrier separating the diner from the servers.  This enables you to focus on your food with minimal distractions, allowing you to maximize your dining experience.  One thing to note is that their standard recommended broth is slightly spicy, but I feel like this takes away a little from the flavor of the broth.  You can customize your ramen to not spicy, or to varying degrees of spiciness.
 5. Ippudo - another popular chain that originated in Fukuoka, the ramen here is also quite solid, although I have found that the quality varies slightly from store to store.  We skipped Ippudo as well, since we have several locations in the U.S., including in San Francisco.
 
-![Shin Shin](images/japan_2019/fukuoka_to_miyajima/shin-shin.jpg)
+{% include figure image_path="/images/japan_2019/fukuoka_to_miyajima/shin-shin.jpg" alt="Shin Shin" %}
 
 - Yoshizuka Unagi - I love unagi, whether it's unagi nigiri, unagi temaki, kimosui, unagi donburi, or unagi no kabayaki.  I love it all!  Unagi in Japan takes it to a whole new level, with different regions preparing unagi no kabayaki in their own unique way, and often serving it with sansho pepper.  Yoshizuka was pretty solid, and great for our particular schedule, since we were carb-loading for a long run the next day.  However, it didn't amaze me.  My friend, Ayako, took me to eat delicious unagi in Tokyo, and Yoshizuka didn't quite measure up.  The flavors were good, but not super complex, and the rice wasn't piping hot, which makes a difference to me.
 
 We did get a pro tip from a Canal City saleslady to try unagi no seiromushi, a specialty of Yanagawa.  Next time!
 
-![Unagi](../../assets/images/japan_2019/fukuoka_to_miyajima/unagi.jpg)
-<center>unagi no kabayaki in a jubako</center>
+{% include figure image_path="/images/japan_2019/fukuoka_to_miyajima/unagi.jpg" alt="Unagi" caption="Unagi no kabayaki in a jubako" %}
 
-![Unagi tamago](../../assets/images/japan_2019/fukuoka_to_miyajima/unagi-tamago.jpg)
-<center>umaki - unagi rolled omelette</center>
+{% include figure image_path="/images/japan_2019/fukuoka_to_miyajima/unagi-tamago.jpg" alt="Umaki" caption="Umaki - unagi rolled omelette" %}
 
 - Trandor Bakery - This is a bakery chain, and we went to the one in Hakata Eki.  The reason I mention it is solely for one pastry:  the curry bun with a soft-boiled egg.  I'll let the picture do the talking!
 
-![Curry Tamago](../../assets/images/japan_2019/fukuoka_to_miyajima/curry_tamago_JS.jpg)
-<center>loving this egg filled curry bun from Trandor Bakery</center>
+{% include figure image_path="/images/japan_2019/fukuoka_to_miyajima/curry_tamago_JS.jpg" alt="Curry Tamago" caption="Loving this egg filled curry bun from Trandor Bakery" %}
 
 - Ito King Dorayaki - Since I didn't find my amazing ichigo daifuku, I went on a search for other delicious desserts that contain a fresh strawberry.  However, I think it's worthwhile to describe this amazing, lost ichigo daifuku, because it's unlike any other that I've ever hard.  It was a layer of cake, with a layer of azuki, a layer of custard, a layer of whipped cream, with a strawberry in the center of it all, encompassed in soft mochi.  Delish!!  The dorayaki at Ito King is definitely a deviation from ichigo daifuku, but it's good in its own way.  The dorayaki is filled with whipped cream, azuki bean, and a strawberry.  You can order the dorayaki individually or as a set, with a drink and some other desserts.  The individual dorayaki and the sets are both on the expensive side, but we wanted to sit and relax in their upstairs cafe, so opted for the sets.
 
-![Dorayaki](../../assets/images/japan_2019/fukuoka_to_miyajima/dorayaki.jpg)
+{% include figure image_path="/images/japan_2019/fukuoka_to_miyajima/dorayaki.jpg" alt="Dorayaki" %}
 
 - Unknown yakitori restaurant - We wanted to visit Hakata Yoka Yoka, which was recommended on a forum for our Hakata hotel, but when we went it was completely full.  And it's pretty unusual for an izakaya to take a line, as they want their customers to feel relaxed, while they eat, drink, and chat at their leisure.  We ended up going to another izakaya even closer to our hotel, which is not listed on Google Maps.  We couldn't read much of the menu, so we ended up asking the waitress for her recommendations.  The yakitori and tamagoyaki were good, but it was their karaage that we couldn't stop raving about.  It was so flavorful... so juicy... so crispy... really, really, good.
