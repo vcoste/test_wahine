@@ -11,41 +11,41 @@ toc_label: "Osaka"
 toc_sticky: true
 
 takoyaki_gallery:
-  - url: /assets/images/japan_2019/nara_and_osaka/IMG-3566.jpg
-    image_path: /assets/images/japan_2019/nara_and_osaka/IMG-3566.jpg
+  - url: /images/japan_2019/nara_and_osaka/IMG-3566.jpg
+    image_path: /images/japan_2019/nara_and_osaka/IMG-3566.jpg
     alt: "takoyaki"
-  - url: /assets/images/japan_2019/nara_and_osaka/IMG-3569.jpg
-    image_path: /assets/images/japan_2019/nara_and_osaka/IMG-3569.jpg
+  - url: /images/japan_2019/nara_and_osaka/IMG-3569.jpg
+    image_path: /images/japan_2019/nara_and_osaka/IMG-3569.jpg
     alt: "takoyaki"
 
 umeda_gallery:
-  - url: /assets/images/japan_2019/nara_and_osaka/IMG_3924.jpg
-    image_path: /assets/images/japan_2019/nara_and_osaka/IMG_3924.jpg
+  - url: /images/japan_2019/nara_and_osaka/IMG_3924.jpg
+    image_path: /images/japan_2019/nara_and_osaka/IMG_3924.jpg
     alt: "building"
-  - url: /assets/images/japan_2019/nara_and_osaka/IMG_3938.jpg
-    image_path: /assets/images/japan_2019/nara_and_osaka/IMG_3938.jpg
+  - url: /images/japan_2019/nara_and_osaka/IMG_3938.jpg
+    image_path: /images/japan_2019/nara_and_osaka/IMG_3938.jpg
     alt: "hole in the building"
-  - url: /assets/images/japan_2019/nara_and_osaka/IMG_3961.jpg
-    image_path: /assets/images/japan_2019/nara_and_osaka/IMG_3961.jpg
+  - url: /images/japan_2019/nara_and_osaka/IMG_3961.jpg
+    image_path: /images/japan_2019/nara_and_osaka/IMG_3961.jpg
     alt: "stairs"
     
 pastry_gallery:
-  - url: /assets/images/japan_2019/nara_and_osaka/IMG_3982.jpg
-    image_path: /assets/images/japan_2019/nara_and_osaka/IMG_3982.jpg
+  - url: /images/japan_2019/nara_and_osaka/IMG_3982.jpg
+    image_path: /images/japan_2019/nara_and_osaka/IMG_3982.jpg
     alt: "half eaten pastry"
-  - url: /assets/images/japan_2019/nara_and_osaka/IMG_3985.jpg
-    image_path: /assets/images/japan_2019/nara_and_osaka/IMG_3985.jpg
+  - url: /images/japan_2019/nara_and_osaka/IMG_3985.jpg
+    image_path: /images/japan_2019/nara_and_osaka/IMG_3985.jpg
     alt: "full pastry"
 
 ichiran_gallery:
-  - url: /assets/images/japan_2019/nara_and_osaka/IMG_3973.jpg
-    image_path: /assets/images/japan_2019/nara_and_osaka/IMG_3973.jpg
+  - url: /images/japan_2019/nara_and_osaka/IMG_3973.jpg
+    image_path: /images/japan_2019/nara_and_osaka/IMG_3973.jpg
     alt: "ramen"
-  - url: /assets/images/japan_2019/nara_and_osaka/IMG_3975.jpg
-    image_path: /assets/images/japan_2019/nara_and_osaka/IMG_3975.jpg
+  - url: /images/japan_2019/nara_and_osaka/IMG_3975.jpg
+    image_path: /images/japan_2019/nara_and_osaka/IMG_3975.jpg
     alt: "egg"
-  - url: /assets/images/japan_2019/nara_and_osaka/IMG_3976.jpg
-    image_path: /assets/images/japan_2019/nara_and_osaka/IMG_3976.jpg
+  - url: /images/japan_2019/nara_and_osaka/IMG_3976.jpg
+    image_path: /images/japan_2019/nara_and_osaka/IMG_3976.jpg
     alt: "eating"
 ---
 
@@ -87,7 +87,7 @@ We had takoyaki at Hanadako, which is located in Umeda Eki and pretty difficult 
 
 Our good friend, Tomoyuki, highly recommended Yakiniku Champion, but alas, we couldn't get in without a reservation.  Thus, we searched at random, and found a gem of a tiny mom and pop shop, which we loved largely for the super friendly owners.  It's called Doushintei (同心亭), and is located near O River in Temma.  The owners don't speak any English, and despite the fact that I speak very little Japanese, the cute ojiisan chef was not deterred, and rambled away at us in Japanese, giving us advice about things to do and see in Osaka.  We accepted all of his recommendations for types of meat, mainly because we didn't understand what he was saying, and it was all delicious.
 
-<video src="/assets/images/japan_2019/nara_and_osaka/IMG-3906.MOV" preload="auto" controls="" style="width: 100%; height: 100%;"></video>
+<video src="../../images/japan_2019/nara_and_osaka/IMG-3906.MOV" preload="auto" controls="" style="width: 100%; height: 100%;"></video>
 
 In Temma, we also went to Rikyu Pudding and tried their hojicha and premium pudding, which uses Oita eggs. It was so good!
 
