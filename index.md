@@ -19,7 +19,7 @@ Since friends are often asking me for my travel itinerary, I figured I would put
   <div class="feature__item">
     <div class="archive__item">
       <div class="archive__item-teaser">
-        <img src="/assets/images/japan_2019/fukuoka_to_miyajima/instagram_untitled.jpg">
+        <img src="assets/images/japan_2019/fukuoka_to_miyajima/instagram_untitled.jpg">
       </div>
       <div class="archive__item-body">
         <h2 class="archive__item-title">
