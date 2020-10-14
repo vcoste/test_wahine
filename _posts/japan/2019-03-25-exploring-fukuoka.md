@@ -12,23 +12,23 @@ toc_label: "Fukuoka"
 toc_sticky: true
 
 gallery:
-  - url: /assets/images/japan_2019/fukuoka_to_miyajima/Uminonakamichi tulips.jpg
-    image_path: /assets/images/japan_2019/fukuoka_to_miyajima/Uminonakamichi tulips.jpg
+  - url: /images/japan_2019/fukuoka_to_miyajima/Uminonakamichi tulips.jpg
+    image_path: /images/japan_2019/fukuoka_to_miyajima/Uminonakamichi tulips.jpg
     alt: "tulips"
-  - url: /assets/images/japan_2019/fukuoka_to_miyajima/Uminonakamichi sakura.jpg
-    image_path: /assets/images/japan_2019/fukuoka_to_miyajima/Uminonakamichi sakura.jpg
+  - url: /images/japan_2019/fukuoka_to_miyajima/Uminonakamichi sakura.jpg
+    image_path: /images/japan_2019/fukuoka_to_miyajima/Uminonakamichi sakura.jpg
     alt: "sakura"
-  - url: /assets/images/japan_2019/fukuoka_to_miyajima/Nanzoin.jpg
-    image_path: /assets/images/japan_2019/fukuoka_to_miyajima/Nanzoin.jpg
+  - url: /images/japan_2019/fukuoka_to_miyajima/Nanzoin.jpg
+    image_path: /images/japan_2019/fukuoka_to_miyajima/Nanzoin.jpg
     alt: "cherry blossom"
-  - url: /assets/images/japan_2019/fukuoka_to_miyajima/Nishi Koen sakura.jpg
-    image_path: /assets/images/japan_2019/fukuoka_to_miyajima/Nishi Koen sakura.jpg
+  - url: /images/japan_2019/fukuoka_to_miyajima/Nishi Koen sakura.jpg
+    image_path: /images/japan_2019/fukuoka_to_miyajima/Nishi Koen sakura.jpg
     alt: "cherry blossom"
-  - url: /assets/images/japan_2019/fukuoka_to_miyajima/Pre-proposal.jpg
-    image_path: /assets/images/japan_2019/fukuoka_to_miyajima/Pre-proposal.jpg
+  - url: /images/japan_2019/fukuoka_to_miyajima/Pre-proposal.jpg
+    image_path: /images/japan_2019/fukuoka_to_miyajima/Pre-proposal.jpg
     alt: "cherry blossom"
-  - url: /assets/images/japan_2019/fukuoka_to_miyajima/Nanzoin Bamboo.jpg
-    image_path: /assets/images/japan_2019/fukuoka_to_miyajima/Nanzoin Bamboo.jpg
+  - url: /images/japan_2019/fukuoka_to_miyajima/Nanzoin Bamboo.jpg
+    image_path: /images/japan_2019/fukuoka_to_miyajima/Nanzoin Bamboo.jpg
     alt: "cherry blossom"
 
 ---
@@ -45,14 +45,14 @@ For those who love shopping, Fukuoka is a great city for this.  Different neighb
 
 * Daimyo - This very trendy area has plentiful boutiques, restaurants, cafes, and bars.  Vince found the men's clothing here too "American rapster" for his liking, but there is a bit more variety for women's clothing.  I found a couple of boutiques with the trendy, somewhat girly style that I like.  While shopping, we went to Manu Coffee, a popular hipster cafe chain in Fukuoka that uses locally roasted beans.  The cafe located in Daimyo, and the one located near Yanagibashirengo Market, are both super cute in their own ways.  
 
-{% include figure image_path="/assets/images/japan_2019/fukuoka_to_miyajima/manu coffee.jpg" alt="PB latte at Manu Coffee" caption="PB latte at Manu Coffee" %}
+{% include figure image_path="/images/japan_2019/fukuoka_to_miyajima/manu coffee.jpg" alt="PB latte at Manu Coffee" caption="PB latte at Manu Coffee" %}
 
 * Tenjin - Right next to Daimyo, and home to abundant nightlife, Tenjin also has numerous shops, from big-name brands to local Japanese stores.  You can visit large departments stores, and Tenjin Chikagai, an underground area with small shops and restaurants, which is pretty characteristic near many of Japan's large subway stations.  In Tenjin, you can also find the unique ACROS Fukuoka building, with plants and trees covering its tiered roof.
 
 
 * Canal City - This large shopping and entertainment complex is pretty to walk through, and has plentiful shops, restaurants, and theaters.  The Lion King was actually premiering the first day we went there.  This is the complex that houses Ramen stadium, where you can eat ramen from different shops to your heart's content.  Even though there are a lot of big-name shops here as well, Vince found his favorite clothing shop in Canal City, called Tornado Mart Word.
 
-{% include figure image_path="/assets/images/japan_2019/fukuoka_to_miyajima/Canal City.jpg" alt="Canal City" %}
+{% include figure image_path="/images/japan_2019/fukuoka_to_miyajima/Canal City.jpg" alt="Canal City" %}
 
 ### Sightseeing
 
