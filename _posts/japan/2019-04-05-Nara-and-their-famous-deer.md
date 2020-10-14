@@ -11,30 +11,30 @@ toc_label: "Nara"
 toc_sticky: true
 
 deer_gallery:
-  - url: /assets/images/japan_2019/nara_and_osaka/IMG_3915.jpg
-    image_path: /assets/images/japan_2019/nara_and_osaka/IMG_3915.jpg
+  - url: /images/japan_2019/nara_and_osaka/IMG_3915.jpg
+    image_path: /images/japan_2019/nara_and_osaka/IMG_3915.jpg
     alt: "deer"
-  - url: /assets/images/japan_2019/nara_and_osaka/IMG-3593.jpg
-    image_path: /assets/images/japan_2019/nara_and_osaka/IMG-3593.jpg
+  - url: /images/japan_2019/nara_and_osaka/IMG-3593.jpg
+    image_path: /images/japan_2019/nara_and_osaka/IMG-3593.jpg
     alt: "deer and vince"
-  - url: /assets/images/japan_2019/nara_and_osaka/IMG_3735.jpg
-    image_path: /assets/images/japan_2019/nara_and_osaka/IMG_3735.jpg
+  - url: /images/japan_2019/nara_and_osaka/IMG_3735.jpg
+    image_path: /images/japan_2019/nara_and_osaka/IMG_3735.jpg
     alt: "deer and julie"
-  - url: /assets/images/japan_2019/nara_and_osaka/IMG_3848.jpg
-    image_path: /assets/images/japan_2019/nara_and_osaka/IMG_3848.jpg
+  - url: /images/japan_2019/nara_and_osaka/IMG_3848.jpg
+    image_path: /images/japan_2019/nara_and_osaka/IMG_3848.jpg
     alt: "deer showing tongue"
 
 temple_gallery:
-  - url: /assets/images/japan_2019/nara_and_osaka/IMG_3829.jpg
-    image_path: /assets/images/japan_2019/nara_and_osaka/IMG_3829.jpg
+  - url: /images/japan_2019/nara_and_osaka/IMG_3829.jpg
+    image_path: /images/japan_2019/nara_and_osaka/IMG_3829.jpg
     alt: "statue"
-  - url: /assets/images/japan_2019/nara_and_osaka/IMG_3823.jpg
-    image_path: /assets/images/japan_2019/nara_and_osaka/IMG_3823.jpg
+  - url: /images/japan_2019/nara_and_osaka/IMG_3823.jpg
+    image_path: /images/japan_2019/nara_and_osaka/IMG_3823.jpg
     alt: "post"
 ---
 I'm sure most people have heard of the famous bowing deer in Nara.  The first time I visited Nara was during Golden Week, and the deer were so full from being fed by the tourists that they had no interest in the deer biscuits and bowing.  This time we were lucky, and the deer were much more interactive.
 
-<video src="/assets/images/japan_2019/nara_and_osaka/IMG-3581.MOV" preload="auto" controls="" style="width: 100%; height: 100%;"></video>
+<video src="../../images/japan_2019/nara_and_osaka/IMG-3581.MOV" preload="auto" controls="" style="width: 100%; height: 100%;"></video>
 {% include gallery id="deer_gallery" layout="half" %}
 
 ### Todaiji
